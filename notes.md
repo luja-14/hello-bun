@@ -4,3 +4,4 @@
 - Bun version: (1.3.14)
 - Editor: (notepad++)
 it was hard
+pwd fans and ls fans may debate
